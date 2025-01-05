@@ -4,7 +4,7 @@
 
 {{quote {author: "Ellen Ullman", title: "Close to the Machine: Technophilia and Its Discontents", chapter: true}
 
-Sistemləri məhz öz məqsədlərimiz üçün yaratdığımızı düşünərik. Onları öz şəkillərimizdə var etdiyimizə inanarıq... Amma komputer bizlər kimi deyil. O, bizim çox kiçik bir hissəmizin yansımasıdır. Bu hissə məhz məntiqdə, təlimatlandırmada, idarə etmədə və şəffaflığda özünü büruzə verir.
+Sistemləri məhz öz məqsədlərimiz üçün yaratdığımızı düşünərik. Onları öz şəkillərimizdə var etdiyimizə inanarıq... Amma komputer bizlər kimi deyil. O, bizim çox kiçik bir hissəmizin yansımasıdır. Bu hissə məhz məntiqdə, təlimatlandırmada, idarə etmədə və barizlikdə özünü büruzə verir.
 
 quote}}
 
