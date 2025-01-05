@@ -4,7 +4,7 @@
 
 {{quote {author: "Ellen Ullman", title: "Close to the Machine: Technophilia and Its Discontents", chapter: true}
 
-We think we are creating the system for our own purposes. We believe we are making it in our own image... But the computer is not really like us. It is a projection of a very slim part of ourselves: that portion devoted to logic, order, rule, and clarity.
+Sistemləri məhz öz məqsədlərimiz üçün yaratdığımızı düşünərik. Onları öz şəkillərimizdə var etdiyimizə inanarıq... Amma komputer bizlər kimi deyil. O, bizim çox kiçik bir hissəmizin yansımasıdır. Bu hissə məhz məntiqdə, təlimatlandırmada, idarə etmədə və şəffaflığda özünü büruzə verir.
 
 quote}}
 
@@ -20,15 +20,15 @@ Məhz bu anda proqramlaşdırmanı bilmək bizim köməyimizə çatır. Proqraml
 
 Xoşbəxtlikdən, əgər bu çətinliklərin öhtəsindən gələ bilsəniz və nə qədər çətin olsa da, axmaq komputerlərin düşünə bildiyi kimi düşünə bilsəniz, proqramlaşdırma həqiqətən də mükafatlandırıcı ola bilər. O Sizə yalın əllə etdikdə min illər alacaq fəaliyyətlərin saniyə içində yerinə yetirilməsi ayrıcalığını verir.
 
-Most programming is done with ((programming language))s. A _programming language_ is an artificially constructed language used to instruct computers. It is interesting that the most effective way we've found to communicate with a computer borrows so heavily from the way we communicate with each other. Like human languages, computer languages allow words and phrases to be combined in new ways, making it possible to express ever new concepts.
+Bir çox proqramlar proqramlaşdırma dilləri ilə yaradılır. _Proqramlaşdırma dili_ komputerlərin təlimatlandırılması məqsədilə süni yaradılmış dildir. Maraqlı təsadüfdür ki, komputerlərlə ünsiyyətdə ən səmərəli olaraq gördüyümüz üsul öz kökünü məhz bir birimizlə ünsiyyətdə istifadə etdiyimz dildən təsirlənərək götürür. İnsan danışıq dilində olduğu kimi, komputer dilləri də söz və farazaları birləşdirərək ortaya yeni konseptlərin çıxmasına imkan yaradır. 
 
 {{index [JavaScript, "availability of"], "casual computing"}}
 
-At one point, language-based interfaces, such as the BASIC and DOS prompts of the 1980s and 1990s, were the main method of interacting with computers. For routine computer use, these have largely been replaced with visual interfaces, which are easier to learn but offer less freedom. But if you know where to look, the languages are still there. One of them, _JavaScript_, is built into every modern web ((browser))—and is thus available on almost every device.
+Bir vaxtlar, proqram dili əsaslı interfesylər, misal üçün, 1980-90-cı illərin BASİC və DOS yönləndirmələri (prompterlər), komputerlərlə qarşılıqlı əlaqəyə girmənin əsas vasitələrindən idi. Davamlı komputerdən istifadə isə, bu interfeyslərin onların vizual variantları ilə əvəz olunmasına gətirib çıxardı ki, onların istifadəsini qavramaq asan olsa da daha limitli bir ortam vəd edirdi. Amma lazımi yerə baxa bilsəniz, dillərin hələ də öz varlıqlarını qoruduğunu görəcəksiniz. Bu dillərdən biri olan, _JavaScript_, hər müasir veb brauzeri (web browser) dəstəkləyə biləcək şəkildə yaradılmış və demək olar ki, hazırda var olan hər bir cihazda istifadəsi mümkündür və dəstəklənir.
 
 {{indexsee "web browser", browser}}
 
-This book will try to make you familiar enough with this language to do useful and amusing things with it.
+Oxuduğunuz bu kitab da, bu dildən istifadə edərək yararlı və əyləncəli bir çox şeyi yarada biləcək səviyyəyə gəlməyinizə təkan verəcəkdir.
 
 ## On programming
 
