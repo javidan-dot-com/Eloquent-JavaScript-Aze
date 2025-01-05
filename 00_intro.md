@@ -1,6 +1,6 @@
 {{meta {load_files: ["code/intro.js"]}}}
 
-# Introduction
+# Giriş
 
 {{quote {author: "Ellen Ullman", title: "Close to the Machine: Technophilia and Its Discontents", chapter: true}
 
@@ -10,15 +10,15 @@ quote}}
 
 {{figure {url: "img/chapter_picture_00.jpg", alt: "Illustration of a screwdriver next to a circuit board of about the same size", chapter: "framed"}}}
 
-This is a book about instructing ((computer))s. Computers are about as common as screwdrivers today, but they are quite a bit more complex, and making them do what you want them to do isn't always easy.
+Bu kitab kompyuterlərin necə təlimatlandırılması gərəkdiyi haqqındadır. Bu gün hər evdə kompyuterlərə rast gəlmək mümkün olsa da, mürəkkəbliliyi səbəbiylə ona istədiyimizi yerinə yetirtmək o qədər də asan deyil.
 
-If the task you have for your computer is a common, well-understood one, such as showing you your email or acting like a calculator, you can open the appropriate ((application)) and get to work. But for unique or open-ended tasks, there often is no appropriate application.
+Əgər səndən istənilən sıradan şeylərdəndirsə, məsələn, gələn e-mail-lərin ekrana yansıdılması və ya hesablama funksiyalarının yerinə yetirilməsi kimi, o zaman lazım olan yalnızca uyğun proqramı tapıb işə salmaqdan ibarətdir. Lakin, istək unikal olduqda uyğun olan proqramı tapmaq mümkün olmur.
 
-That is where ((programming)) may come in. _Programming_ is the act of constructing a _program_—a set of precise instructions telling a computer what to do. Because computers are dumb, pedantic beasts, programming is fundamentally tedious and frustrating.
+Məhz bu anda proqramlaşdırmanı bilmək bizim köməyimizə çatır. Proqramlaşdırma özü isə lazım olan təlimatların yazılması yöntəmidir ki, bu təlimatlar sayəsində kompyuter istədiklərimizi yerinə yetirmə qabiliyyətinə malik olsun. Çünki kompyuterlər düşündüyümüz qədər ağıllı deyillər və proqramlaşdırma da kifayət qədər yorucu və can sıxıcı bir fəaliyyətdir.
 
 {{index [programming, "joy of"], speed}}
 
-Fortunately, if you can get over that fact—and maybe even enjoy the rigor of thinking in terms that dumb machines can deal with—programming can be rewarding. It allows you to do things in seconds that would take _forever_ by hand. It is a way to make your computer tool do things that it couldn't do before. On top of that, it makes for a wonderful game of puzzle solving and abstract thinking.
+Xoşbəxtlikdən, əgər bu çətinliklərin öhtəsindən gələ bilsəniz və nə qədər çətin olsa da, axmaq komputerlərin düşünə bildiyi kimi düşünə bilsəniz, proqramlaşdırma həqiqətən də mükafatlandırıcı ola bilər. O Sizə yalın əllə etdikdə min illər alacaq fəaliyyətlərin saniyə içində yerinə yetirilməsi ayrıcalığını verir.
 
 Most programming is done with ((programming language))s. A _programming language_ is an artificially constructed language used to instruct computers. It is interesting that the most effective way we've found to communicate with a computer borrows so heavily from the way we communicate with each other. Like human languages, computer languages allow words and phrases to be combined in new ways, making it possible to express ever new concepts.
 
